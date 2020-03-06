@@ -1,8 +1,5 @@
 function setup() {
-  createCanvas(displayWidth/2, displayHeight/2, WEBGL);
-  print(displayWidth/2);
-  print(displayHeight/2);
-  
+  createCanvas(600, 600, WEBGL);  
 }
 
 function draw() {
